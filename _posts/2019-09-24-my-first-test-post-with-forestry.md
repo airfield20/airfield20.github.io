@@ -11,7 +11,7 @@ tags:
 - First Post
 
 ---
-# Hi I'm Aaron, I like to build <div id="2">robots</div>
+# Hi I'm Aaron, I like to build robots
 
 This is my first blog post on my new site, hosted through GitHub. This site will contain blog posts about my various projects (successes and failures).   
   
