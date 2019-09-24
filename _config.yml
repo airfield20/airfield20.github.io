@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://www.airfield20.github.io/airfield20site"
+url: "https://www.airfield20.github.io/airfield20site/"
 baseurl: ""
 
 # Includes
