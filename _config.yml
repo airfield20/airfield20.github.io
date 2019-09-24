@@ -1,18 +1,18 @@
 # General Settings
-name: Steve Austin
-job_title: UI/UX Engineer
-email: youremail@gmail.com
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
+name: Aaron Cofield
+job_title: Robotics Software Developer
+email: afcofiel@umich.edu
+description: I create robotics control, perception, visualization, and logging applications. #LinuxJunkie
+avatar: https://scontent.fdet1-2.fna.fbcdn.net/v/t1.0-9/69743655_110811510302354_641444741363269632_n.jpg?_nc_cat=102&_nc_oc=AQmDEJx2hpkSJbc0PSuEkGdjQry0lDzhLDt8cjwKFkweAC5j8TuHR9CbhrXJTT0Hf4E&_nc_ht=scontent.fdet1-2.fna&oh=75d219f83e2d214bcafbbd3bf1c3e3cd&oe=5E379AAB
 favicon: /favicon.ico
-twitter_handler: your_handler
-analytics_code: UA-XXXXXXX-2
+twitter_handler: airfield20
+analytics_code: 
 disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: '' }
+-  { name: twitter, url: 'http://twitter.com/airfield20' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
@@ -24,7 +24,7 @@ social_networks:
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
+-  { name: youtube, url: 'https://www.youtube.com/channel/UCiKsKpXARCafKdL0w3Cvosg' }
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
