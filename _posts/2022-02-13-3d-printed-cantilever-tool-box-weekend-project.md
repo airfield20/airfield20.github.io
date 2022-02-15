@@ -29,6 +29,6 @@ Open:
 
 Onshape Project: [https://cad.onshape.com/documents/f74d0a152d0d490f8e28abb9/](https://cad.onshape.com/documents/f74d0a152d0d490f8e28abb9/w/a614a3fa383af8347bd8ffe3/e/ea79773bb44cda7e9876db15?renderMode=0&uiState=620ad86f20578d3b0f802e2d "https://cad.onshape.com/documents/f74d0a152d0d490f8e28abb9/w/a614a3fa383af8347bd8ffe3/e/ea79773bb44cda7e9876db15?renderMode=0&uiState=620ad86f20578d3b0f802e2d")
 
-STL Files: [https://github.com/airfield20/airfield20.github.io/tree/master/uploads/3d_prints/cantilever_box](https://github.com/airfield20/airfield20.github.io/tree/master/uploads/3d_prints/cantilever_box "STL Files for box")
+STL Files: [Download All Files](https://github.com/airfield20/airfield20.github.io/raw/master/uploads/3d_prints/cantilever_box/all_files.zip "STL Files for box")
 
 Amazon Affiliate Link for Screws: [https://amzn.to/3GJWBO5](https://amzn.to/3GJWBO5 "https://amzn.to/3GJWBO5")
