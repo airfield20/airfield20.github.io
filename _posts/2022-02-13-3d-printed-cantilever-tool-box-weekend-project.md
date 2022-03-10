@@ -17,7 +17,16 @@ tags:
 - tools
 
 ---
-Post about the toolbox
+This is a mostly printed cantilevered toolbox, designed by me. It features 2 lockable compartments and an optional hind leg for stability. The walls and bottoms of the box are purposely made very thick for added durability and drop resistance. 
+
+The entire kit can be assembled with an assortment pack of m6 bolts and the tolerances are very large to make this printable on imprecise printers. 
+
+You will need a bed at least 300mm bed size to print the toolbox however, I'm sure it would assemble well even if it were split into parts.
+
+Here is a video of it in action! Please leave a like or comment on youtube if you like the design. Thank you.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_C3xph_Cyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 3D View (viewstl.com)
 
