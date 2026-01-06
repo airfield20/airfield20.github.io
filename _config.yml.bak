@@ -1,30 +1,30 @@
 # General Settings
-name: ..-
-job_title: ..-
-email: ..-
-description: ..-
-avatar: ..-
-favicon: ..-
-twitter_handler: ..-
+name: Aaron Cofield
+job_title: Robotics Software Developer
+email: afcofiel@umich.edu
+description: I create robotics control, perception, visualization, and data logging applications. #LinuxJunkie
+avatar: https://airfield20.github.io/assets/images/avatar.jpeg
+favicon: favicon.ico
+twitter_handler: airfield20
 analytics_code: UA-148573825-1
-disqus: ..-
+disqus: https://aaroncofield.disqus.com
 
 # Social Accounts
 social_networks:
 -  { name: facebook, url: '' }
--  { name: twitter, url: '' }
+-  { name: twitter, url: 'http://twitter.com/airfield20' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/airfield20' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
+-  { name: youtube, url: 'https://www.youtube.com/channel/UCiKsKpXARCafKdL0w3Cvosg' }
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
